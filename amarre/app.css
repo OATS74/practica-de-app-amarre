@@ -1,0 +1,30 @@
+button:hover {
+cursor :pointer;
+}
+h1{
+color: blueviolet;
+
+}
+
+.modo_familia{
+height: 2000px;
+position: absolute;
+display: none;
+width: 100%;
+background-color: blue;
+
+
+}
+#btn_si {
+background-color: rgb(76, 10, 242);
+border-color: aqua;
+color: azure;
+border-radius: 2px;
+font-size: xx-large;
+padding: 32px;
+text-align: center;
+
+
+
+
+}
